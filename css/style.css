@@ -72,10 +72,9 @@ input{
     } */
 
 .portifolio{
-
     width: 50%;
     filter: blur(14px) grayscale(90%);
-    
+    padding: 0.7em;
 }
 
 .portifolio:hover{
