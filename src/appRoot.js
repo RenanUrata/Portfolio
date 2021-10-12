@@ -13,7 +13,7 @@ const load = () => {
     });
 }
 
-// setTimeout(load, 1500)
+setTimeout(load, 1500)
 
 // let lastKnownScrollPosition = 0;
 // let ticking = false;
