@@ -8,7 +8,9 @@ imageURL = [
     { src: './portifolio/img (5).png', url: 'https://renanurata.github.io/maxClickOneSecond/' },
     { src: './portifolio/img (6).png', url: 'https://renanurata.github.io/mousePollingRate/' },
     { src: './portifolio/img (7).png', url: 'https://renanurata.github.io/humanreactiontime/' },
-    { src: './portifolio/img (2).png', url: 'https://renanurata.github.io/' },]
+    { src: './portifolio/img (2).png', url: 'https://renanurata.github.io/' },
+    { src: './portifolio/img (8).png', url: 'https://renanurata.github.io/keyCodeCheck/' },
+]
 
 const load = () => {
     imageURL.forEach(element => {
